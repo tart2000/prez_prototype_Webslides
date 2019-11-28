@@ -1,0 +1,9 @@
+.pourquoi .fas {
+	padding-right: 10px;
+	color: purple;
+	font-size: 2.5rem;
+}
+
+.bg-gradient-v>.dark {
+	opacity: .5;
+}
