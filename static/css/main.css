@@ -7,3 +7,9 @@
 .bg-gradient-v>.dark {
 	opacity: .5;
 }
+
+.website-embed {
+	padding: 0; 
+	margin:0 ; 
+	height: 100%;
+}
